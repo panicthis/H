@@ -5,5 +5,5 @@ import (
 )
 
 func Visit() {
-	fmt.Println("H v1.1")
+	fmt.Println("H v1.2")
 }
